@@ -4,7 +4,7 @@
 
 // ----------------------------конфигурация-------------------------- // 
  
-$adminemail="2kie.co@gmail.com, eleven.krsk@gmail.com;";  // e-mail админа 
+$adminemail="chaika_70@mail.ru, 2kie.co@gmail.com, eleven.krsk@gmail.com;";  // e-mail админа 
 
 $email="2kie.co@gmail.com,"; // почта пользователя по умолчанию  
  
